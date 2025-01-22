@@ -28,11 +28,11 @@ foreground = "0xABB2BF"
 size = 10.0
 
 [font.bold]
-family = "Cascadia Code"
+family = "Noto Sans Mono"
 style = "Regular"
 
 [font.bold_italic]
-family = "Cascadia Code"
+family = "Noto Sans Mono"
 style = "Bold Italic"
 
 [font.italic]
@@ -40,7 +40,7 @@ family = "Noto Sans Mono"
 style = "Italic"
 
 [font.normal]
-family = "Cascadia Code"
+family = "Noto Sans Mono"
 style = "Regular"
 
 [scrolling]
