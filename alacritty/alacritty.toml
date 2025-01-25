@@ -28,19 +28,19 @@ foreground = "0xABB2BF"
 size = 10.0
 
 [font.bold]
-family = "Noto Sans Mono"
-style = "Regular"
+family = "Hasklug Nerd Font Mono"
+style = "Bold"
 
 [font.bold_italic]
-family = "Noto Sans Mono"
+family = "Hasklug Nerd Font Mono"
 style = "Bold Italic"
 
 [font.italic]
-family = "Noto Sans Mono"
+family = "Hasklug Nerd Font Mono"
 style = "Italic"
 
 [font.normal]
-family = "Noto Sans Mono"
+family = "Hasklug Nerd Font Mono"
 style = "Regular"
 
 [scrolling]
