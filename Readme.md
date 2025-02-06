@@ -20,3 +20,4 @@ This repository contains my personal configurations for various tools and utilit
 1. Clone the repository:
    ```bash
    git clone https://github.com/paulwritescode/i3-ricing
+   ```
