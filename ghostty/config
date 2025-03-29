@@ -1,0 +1,7 @@
+gtk-titlebar = false
+gtk-adwaita= false
+window-theme = dark
+adjust-cell-height = 6
+adjust-cell-width = 0
+font-family = GeistMono Nerd Font Mono'
+theme = NvimDark
